@@ -1,2 +1,2 @@
-# curso-f-rias
+# curso-férias
 primeiro repositório hit
